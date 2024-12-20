@@ -1,4 +1,4 @@
-local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
+local OrionLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/kakasi-pixle/shawarma-hub/main/shawarma.lua"))()
 local Window = OrionLib:MakeWindow({Name = "Script All Game", HidePremium = false, SaveConfig = true, ConfigFolder = "Script Tổng Hợp"})
 local Tab1 = Window:MakeTab({
 	Name = "Blox Fruit",
